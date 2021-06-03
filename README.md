@@ -1,17 +1,6 @@
 # libsnark-demo
 
-考虑到国内`github`网络稳定，本项目将所有依赖集成，无需再次`submodule update`
-
-
-
-### 克隆项目
-
-```bash
-git clone git@github.com:Trusted-Federal-Learning/libsnark-demo.git
-cd ./libsnark-demo
-```
-
-
+考虑到国内`github`网络稳定，本项目将所有依赖集成，无需再次`submodule update`，直接克隆即可
 
 ### 安装环境
 
